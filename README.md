@@ -6,7 +6,9 @@
 
 2)Getting employees by department.
 
-<img width="1470" height="593" alt="Screenshot 2025-11-05 at 11 34 09 AM" src="https://github.com/user-attachments/assets/b56073fb-94a0-41ee-9d82-820e32437d7c" />
+
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/24864116-7883-4067-8002-424c099c9a6b" />
+
 
 
 3)Getting average salary.
